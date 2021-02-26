@@ -1,7 +1,6 @@
-## About Me
+### About Me
 
-.....
-
+Hello, welcome to my website. My name is Ben Namovicz. I'm working towards a Computer Science and Math major at the University of Maryland, College Park. I am interested in data science, machine learning, statistics, and software engineering. My hobbies include playing guitar, listening to music, and swimming. 
 
 ### Projects
 
