@@ -5,6 +5,7 @@ Hello, welcome to my website. My name is Ben Namovicz. I'm working towards a Com
 ### Projects
 
 - [Are Upsets More Likely Between Division Rivals in the NFL?](https://brnamovicz.github.io/NFL-Upsets/):
-This project aims to determine whether NFL games played by teams in the same division are more likely to end in upsets. 
+This project aims to determine whether NFL games played by teams in the same division are more likely to end in upsets. I don't find any clear relationship between division status and upsets.
 
-
+- [A Stistical Refutation of Steve Cortes](https://brnamovicz.github.io/Election/):
+In this project I respond to an article that alleges statistical evidence of voter fraud in the 2020 election. I find that the argument made in the article lacks statistical merit.
