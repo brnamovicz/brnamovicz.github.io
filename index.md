@@ -9,3 +9,6 @@ This project aims to determine whether NFL games played by teams in the same div
 
 - [A Statistical Refutation of Steve Cortes](https://brnamovicz.github.io/Election/):
 In this project I respond to an article that alleges statistical evidence of voter fraud in the 2020 election. I find that the argument made in the article lacks statistical merit.
+
+- [Analysis of Baltimore Crime Data](https://github.com/brnamovicz/Baltimore):
+This is a quick tutorial for mapping crime data in baltimore. Due to the file size, you have to download a zip file to view this.
