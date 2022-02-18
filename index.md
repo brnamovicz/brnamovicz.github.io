@@ -4,6 +4,12 @@ Hello, welcome to my github page. My name is Ben Namovicz. I'm working towards a
 
 ### Projects
 
+- [LiDAR Visualization Tool](https://github.com/nicorev/LVT):
+A tool to convert to visualize data for self-driving car researchers. This tool enables researchers to visually evaluate the machine learning models that power self-driving cars. I was on the 7-person team that built this as a semester long class project.
+
+- PG Case Scraper:
+I built a scraper for Court Watch PG that automatically collects data from the Maryland Case Search Database. The scraper then processes that data and adds it to a database maintained by Court Watch. This increased the amount and variety of data Court Watch can collect while significantly reducing collection time and error. This code is not publicly available for privacy reasons.
+
 - [Are Upsets More Likely Between Division Rivals in the NFL?](https://brnamovicz.github.io/NFL-Upsets/):
 This project aims to determine whether NFL games played by teams in the same division are more likely to end in upsets. I don't find any clear relationship between division status and upsets.
 
